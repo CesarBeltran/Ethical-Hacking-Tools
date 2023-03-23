@@ -1,5 +1,11 @@
 ## Forensics
 
+
+
+* [FTK Imager ](https://go.exterro.com/l/43312/2022-08-23/f7rylq)&nbsp;&nbsp;&nbsp;[![](https://https://go.exterro.com/l/43312/2022-08-23/f7rylq)](https://go.exterro.com/l/43312/2022-08-23/f7rylq)&nbsp;&nbsp;&nbsp; 
+
+http://www.sleuthkit.org/autopsy/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/sleuthkit/autopsy)&nbsp;&nbsp;&nbsp
+
 * [Autopsy](http://www.sleuthkit.org/autopsy/)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/sleuthkit/autopsy)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=HNJuQyWJhwg)
 
 * [bulk-extractor](https://tools.kali.org/forensics/bulk-extractor)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/gitlab.png?token=AKLVDP5MB6RCSXS423WWIA26WYYWM)](https://gitlab.com/kalilinux/packages/bulk-extractor)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=V41wfNKtF7Y)
