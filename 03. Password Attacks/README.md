@@ -60,6 +60,10 @@ hexorbase
 ``` 
 hydra -h
 pw-inspector
+hydra -L usernames.txt -P password.lst -F rdp://192.168.31.1 -V
+
+hydra -e ns -t 32 -l acarvaja -f -P password.lst 127.0.0.1 ssh
+
 ```
 * [John the Ripper ](https://tools.kali.org/password-attacks/john)&nbsp;&nbsp;&nbsp;[![](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/github.png?token=AKLVDP4M2RTUFTJVE5QLRV26WYYCE)](https://github.com/magnumripper/JohnTheRipper)&nbsp;&nbsp;&nbsp; [![watch](https://raw.githubusercontent.com/hhhrrrttt222111/Ethical-Hacking-Tools/master/0/yt.png?token=AKLVDPY5647PJVN6MSLDOHS6WYYGY)](https://www.youtube.com/watch?v=XjVYl1Ts6XI)
 ``` 
