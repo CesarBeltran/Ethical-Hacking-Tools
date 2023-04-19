@@ -1,4 +1,4 @@
-#Laboratorio 1 – Ataque a red WIFI.
+# Laboratorio 1 – Ataque a red WIFI.
 
 ## Uso de herramientas Aircrack-ng, Airdecap-ng y Wireshark.
 El presente laboratorio tiene como objetivo realizar el análisis de una red WiFi bajo el protocolo WPA utilizando diferentes herramientas de seguridad como Aircrack-ng, Airdecap-ng y Wireshark.  En el informe se detalla la forma en que por medio de un ataque de diccionario se consigue la clave de la red, se desencripta la captura de paquetes de red y su posterior análisis.
