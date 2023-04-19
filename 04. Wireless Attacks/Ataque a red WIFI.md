@@ -17,4 +17,10 @@ Se usó el siguiente comando donde:
  
     airdecap-ng -e Coherer -p Induction CapturaWIFIActividad.pcap
 
+Luego de la ejecución del comando se observa en el resultado que el número total de dispositivos inalámbricos encontrados son 11.
+
+Un total de 1093 paquetes leídos y 268 paquetes de datos encriptados con el protocolo WPA y que 190 paquetes WPA han sido desencriptados correctamente.
+Adicional se observa que en la ruta donde se encontraba el archivo de captura, se ha creado un nuevo archivo desencriptado.
+
+
 Después de tener el archivo decodificado previamente se procede a abrir con Wireshark y de este modo tener información más detallada sobre la actividad de la red capturada.
