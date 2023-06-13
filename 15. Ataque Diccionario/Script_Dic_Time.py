@@ -2,14 +2,16 @@ import hashlib
 import timeit
 
 def crack_password(hash_to_crack):
-    with open("Passwords.txt", "r") as file:
+   
+   ''' with open("Passwords.txt", "r") as file:
         for line in file:
             password = line.strip()
             hashed_password = hashlib.sha1(password.encode()).hexdigest()
             if hashed_password == hash_to_crack:
                 return password
     return None
-
+    '''
+    print(29*99999994444)
 # Función auxiliar para medir el tiempo de ejecución
 def measure_time():
     hash_to_check = "de68a951c1586debd9031e55c96f667072382937"
